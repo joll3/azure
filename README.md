@@ -14,6 +14,7 @@ PS /home/contoso> Get-AzureADUser -ObjectId 'first.last@domain.com'
 ## [Cloudshell profile](https://about-azure.com/configure-azure-cloud-shell-to-use-a-profile-hosted-on-github/)
 
 - [followed a reputable guide from][1]
+- https://kevinhakanson.com/2020-06-12-customizing-azure-cloud-shell-using-a-powershell-profile
 
 ```PS
 #returns False because no profile exists
